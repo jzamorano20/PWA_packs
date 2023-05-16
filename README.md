@@ -37,3 +37,20 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
+
+
+## Usage 
+Users are able to use the Progressive Web Application or PWA text editor in the browser and offline. If you click on the install button it will download on your computer. Just like in the browser youll be able to type and save it and offline as well just refresh when you type somehting in the installed JEST editor and it should show on the web browser.
+
+
+## Screen shot
+Online JEST
+![web](./Develop/assets/Web.png)
+
+Installed JEST
+![installed jest](./Develop/assets/Downloaded.png)
+
+
+## Video DEMO
+
+https://drive.google.com/file/d/1cWz25XCA4XnbgM4dI4fwbMY8fdCc9hBv/view
