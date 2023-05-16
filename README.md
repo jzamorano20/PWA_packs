@@ -54,3 +54,7 @@ Installed JEST
 ## Video DEMO
 
 https://drive.google.com/file/d/1cWz25XCA4XnbgM4dI4fwbMY8fdCc9hBv/view
+
+
+## Deployed site
+https://pwa-packs.herokuapp.com/
